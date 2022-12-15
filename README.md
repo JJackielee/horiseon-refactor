@@ -17,6 +17,12 @@ N/A
 3 - click on the link so it can bring you to the approitate section.
 4 - read content on the page.
 
+[https://jjackielee.github.io/horiseon-refactor](https://jjackielee.github.io/horiseon-refactor)
+
+![Top of page](assets/images/header.jpg)
+![Content](assets/images/content.jpg)
+
+
 ## Credits
 
 N/A
